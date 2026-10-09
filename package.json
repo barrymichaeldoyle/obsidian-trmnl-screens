@@ -1,6 +1,6 @@
 {
   "name": "trmnl-screens",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "description": "Push today's tasks, due tasks, Dataview queries, resurfaced notes, writing stats or a pinned note to a TRMNL e-ink display.",
